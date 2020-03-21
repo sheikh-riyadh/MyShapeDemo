@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <size android:height="100dp"
+        android:width="100dp">
+    </size>
+    <solid android:color="#06F48A"> </solid>
+    <corners android:topLeftRadius="75dp"
+        android:bottomRightRadius="75dp">
+    </corners>
+    <gradient android:endColor="#599355"
+        android:startColor="#2A534B">
+
+    </gradient>
+    <stroke android:width="0.1dp"
+        android:color="#000000"></stroke>
+    // this is our shape xml file in this file we make design and after apply our component
+
+</shape>

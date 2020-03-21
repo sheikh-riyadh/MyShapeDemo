@@ -1,0 +1,2 @@
+rootProject.name='MyShapeDemo'
+include ':app'
